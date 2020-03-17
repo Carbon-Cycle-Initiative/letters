@@ -15,6 +15,13 @@ Companies which engage in harmful activities of extracting,
 refining, distributing etc. fossile fuels are put on
 the watchlist.
 
+Wikipedia has a [List of largest oil and gas companies by revenue](https://en.wikipedia.org/wiki/List_of_largest_oil_and_gas_companies_by_revenue).  The list has a significant long
+tail, so we'll really have to write all of them.  The list is led by Saudi,
+Chinese, US, Kuwait and UK companies.  
+
+TODO: Put all of them on the watchlist, including contacts of directors
+and officers.  __Use only public sources and cite them__.
+
 ## Extractors
 
 * List fossile fuel companies with D&Os and contact

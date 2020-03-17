@@ -1,0 +1,61 @@
+#
+# This is the central list of this project.
+#
+# We aim to collect names and contacts of key people of 
+# fossile fuel extractors.
+#
+# Important:
+# * Only use public sources
+# * Cite sources
+#
+# See https://en.wikipedia.org/wiki/List_of_largest_oil_and_gas_companies_by_revenue
+#
+# TODO: Complete, and verify people using official sources (commercial registers
+# etc.)
+#
+
+- Saudi Aramco:
+  official_name: Saudi Arabian Oil Company
+  ownership:
+  source: https://en.wikipedia.org/wiki/Saudi_Aramco
+  address: TBD
+  people:
+    - Amin H. Al-Nasser:
+      role: President and CEO
+      email:
+    - Yasir Al-Rumayyan: 
+      role: Chairman
+      email:
+    - Wes Meadows:
+      role: Executive director
+      email:
+
+- Sinopec Group:
+  official_name: China Petrochemical Corporation
+  ownership: Government of the People's Republic of China
+  source: https://en.wikipedia.org/wiki/China_Petrochemical_Corporation
+  people:
+    - Dai Houliang
+      role: Chairman
+      email:
+
+- CNPC:
+  official_name: China National Petroleum Corporation
+  ownership: Government of the People's Republic of China
+  source: https://en.wikipedia.org/wiki/China_National_Petroleum_Corporation
+  people:
+    - Wang Yilin
+      role: Chairman
+      email:
+    - Zhang Wei
+      role: President
+      email:
+
+- ExxonMobil:
+  official_name: Exxon Mobil Corporation
+  ownership: Public company
+  people: 
+    - Darren Woods
+      role: Chairman and CEO
+      email:
+
