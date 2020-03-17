@@ -1,33 +1,33 @@
 Dear SIR_MADAM,
 
-as you are certainly aware, the global carbon cycle is
+as you are no doubt aware, the global carbon cycle is
 out of balance causing several potentially catastrophic effects
 including, but not limited to:
 * A strong rise of average temperatures (global warming),
 * A change in the pH value of oceans (ocean acidification),
 * Extinction of land and sea animal and plant species.
 
-Your company COMPANY, engages in activities of extracting
+Your company, COMPANY, engages in activities of extracting
 fossile fuels which contribute to said imbalance of the carbon cycle.
 
-This letter is to put you, your employees, your company 
-and your shareholders on notice that given the 
-urgency of the situation, we need to insist that
-you start winding down said activities.
+This letter is to put you, COMPANY, your employees,
+and your shareholders on notice that you must now
+start winding down said activities.
 
-Said wind-down is to commence with immediate effect and to
-be finished by the year 2040 at the latest.  
+Given the well-known urgency of the situation, said wind-down is 
+to commence with immediate effect and to be finished by the year 
+2040 at the latest.  
 
-_The wind-down
-schedule requires you to reduce your company's extraction of
+The wind-down
+schedule will require your company to reduce its extraction of
 carbon-based fuels by 5% every year relative to a baseline
-of the corresponding average between 2010 and 2020._
+of the corresponding average between 2010 and 2020.
 
-_If scientific research shows that the above schedule is not
+__If scientific research shows that the above schedule is not
 enough to avert global catastrophe, we reserve the right
 to accelerate the wind-down schedule or require
 you to implement negative carbon emission technologies
-at any time._
+at any time.__
 
 We understand that your company draws a substantial part
 of its profits from your activity of extracting fossile fuels.
@@ -37,26 +37,26 @@ draw profits from other business areas, e.g. from
 renewable energies.
 
 We would also like to mention that as a director or officer
-of a large international company, you have a responsibility
+of a large international company, you have and always had
+a strong responsibility
 to be aware of the consequences of your business.  The 
 severe negative consequences of excessive CO2 emissions 
-have been publicly knowledge for more than 40 years.  The
-fact that you didn't follow up until now can and will be
-interpreted as gross negligence in certain jurisdictions
-and will already *now* expose you to drastic legal sanctions.
+have been public knowledge for more than 40 years.  Your
+failure to act decisively until now could be interpreted
+in some jurisdictions as gross negligence 
+and could already expose you to drastic legal sanctions.
 
 In the coming years we will work with legislators and 
-governments to mandate above-mentioned wind-down worldwide.
-Again due to the urgency of the situation, this mandate will
-have no choice than to impose severe fines for non-compliant
+governments to mandate the above-mentioned wind-down schedule worldwide.
+Due to the urgency of the situation, governments will
+have no choice than to impose severe sanctions for non-compliant
 companies and individuals.
 
-It is important to emphasize the urgency of the situation and 
-that you are required to act immediately.  
-This is due to the fact that the entire planet is facing catastrophic 
-climate change if you fail to act.  Surely you will understand 
-that avoiding this catastrophe is more important than your ability 
-to continue your business "as usual".
+It is important to emphasize, however, that despite a possible
+delay in lawmaking, you are required to act immediately.
+Surely you will understand that avoiding a global
+climate catastrophe is more important than your company's
+ability to continue your business "as usual".
 
 We are sending this
 letter to you and to other companies we have identified as
@@ -73,9 +73,18 @@ Possible sanctions include, but are not limited to:
   in certain jurisdictions and worldwide
 * Prison
 
+If you were to fail to act decisively now, you would devastate
+you shareholder's value.  This would surely expose you to billions
+of dollers in shareholder derivative suits for your breach
+of fiduciary duty.
+
 It's time for you and COMPANY to find business areas which
 do not threaten the livelihood of the entire human race.  There
-are plenty available.
+are plenty of lucrative areas you can go into and you have
+enough time and financial resources to do so.
+
+There is no excuse for any further procrastination
+we are now forced to crack down on it.
 
 Sincerely,
 Citizens concerned about climate change
