@@ -20,13 +20,13 @@
   source: https://en.wikipedia.org/wiki/Saudi_Aramco
   address: TBD
   people:
-    - Amin H. Al-Nasser:
+    - name: Amin H. Al-Nasser
       role: President and CEO
       email:
-    - Yasir Al-Rumayyan: 
+    - name: Yasir Al-Rumayyan
       role: Chairman
       email:
-    - Wes Meadows:
+    - name: Wes Meadows
       role: Executive director
       email:
 
@@ -35,7 +35,7 @@
   ownership: Government of the People's Republic of China
   source: https://en.wikipedia.org/wiki/China_Petrochemical_Corporation
   people:
-    - Dai Houliang
+    - name: Dai Houliang
       role: Chairman
       email:
 
@@ -44,10 +44,10 @@
   ownership: Government of the People's Republic of China
   source: https://en.wikipedia.org/wiki/China_National_Petroleum_Corporation
   people:
-    - Wang Yilin
+    - name: Wang Yilin
       role: Chairman
       email:
-    - Zhang Wei
+    - name: Zhang Wei
       role: President
       email:
 
@@ -55,7 +55,7 @@
   official_name: Exxon Mobil Corporation
   ownership: Public company
   people: 
-    - Darren Woods
+    - name: Darren Woods
       role: Chairman and CEO
       email:
 
