@@ -85,5 +85,5 @@ enough time and financial resources to do so.
 There is no excuse for any further procrastination
 we are now forced to crack down on it.
 
-Sincerely,
+Sincerely,  
 Citizens concerned about climate change
