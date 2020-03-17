@@ -1,10 +1,10 @@
-Dear SIR_MADAM,
+Dear DIRECTOR_OFFICER,
 
 as you are no doubt aware, the global carbon cycle is
 out of balance causing several potentially catastrophic effects
 including, but not limited to:
 * A strong rise of average temperatures (global warming),
-* A change in the pH value of oceans (ocean acidification),
+* A decrease of the pH value of oceans (ocean acidification),
 * Extinction of land and sea animal and plant species.
 
 Your company, COMPANY, engages in activities of extracting
@@ -24,14 +24,14 @@ carbon-based fuels by 5% every year relative to a baseline
 of the corresponding average between 2010 and 2020.
 
 __If scientific research shows that the above schedule is not
-enough to avert global catastrophe, we reserve the right
+enough to avert global catastrophe, we may be forced to
 to accelerate the wind-down schedule or require
 you to implement negative carbon emission technologies
 at any time.__
 
 We understand that your company draws a substantial part
 of its profits from your activity of extracting fossile fuels.
-We think however, that a 20 year wind-down period is more
+However, we consider a 20 year wind-down period more
 than enough to allow you to restructure your company to 
 draw profits from other business areas, e.g. from
 renewable energies.
@@ -42,7 +42,7 @@ a strong responsibility
 to be aware of the consequences of your business.  The 
 severe negative consequences of excessive CO2 emissions 
 have been public knowledge for more than 40 years.  Your
-failure to act decisively until now could be interpreted
+failure to act decisively until now could therefore be interpreted
 in some jurisdictions as gross negligence 
 and could already expose you to drastic legal sanctions.
 
@@ -64,13 +64,12 @@ engaging in the same or similar activities.
 
 To be very clear: If you fail to act NOW, you expose 
 yourself, your company, shareholders and employees to 
-crushing and potentially fatal legal and economic sanctions.
-
-Possible sanctions include, but are not limited to:
-* Payment of compensatory and punitive damages
+crushing and potentially fatal legal and economic sanctions
+including, but not limited to:
+* Payment of large compensatory and punitive damages
 * Freezing of company and private assets
 * Barring of your company and personnel from doing business
-  in certain jurisdictions and worldwide
+  in certain jurisdictions or worldwide
 * Prison
 
 If you were to fail to act decisively now, you would devastate
@@ -78,7 +77,7 @@ you shareholder's value.  This would surely expose you to billions
 of dollers in shareholder derivative suits for your breach
 of fiduciary duty.
 
-It's time for you and COMPANY to find business areas which
+It's time for you and COMPANY to move to business areas which
 do not threaten the livelihood of the entire human race.  There
 are plenty of lucrative areas you can go into and you have
 enough time and financial resources to do so.
