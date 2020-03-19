@@ -13,7 +13,8 @@ needs to be structured.  Help is very welcome.
      flux from land to the atmosphere by extraction and burning of
      fossile fuels.
 
-     See [Wikipedia](https://en.wikipedia.org/wiki/Carbon_cycle)
+     See the [Wikipedia article](https://en.wikipedia.org/wiki/Carbon_cycle).
+     TODO: Book references
      
 * Q: How can I verify that CO2 is a greenhouse gas?
 * A: The simplest experiment is with two identical bottles, one
@@ -38,15 +39,18 @@ needs to be structured.  Help is very welcome.
   to get a permit to build a shack in my backyard while at
   the same time we allow big concerns to modify the planet's 
   atmosphere without an environmental impact assessment?
-  A: We have no idea.  Perhaps Ask your lawmakers.
+* A: We don't know.  Perhaps ask your lawmakers.
 
 # Motivation
 
 * Q: Aren't we all responsible?
-* A: Yes and no...  There are many people who have legitimate reasons to
-  emit CO2.  Many people don't even have a good choice right now.
+* A: Yes and no.  There are many people who have legitimate reasons to
+  emit CO2 and have little choice.  Some people emit a lot, many
+  people emit very little.
+
   If you can reduce or compensate your personal carbon footprint, by
-  all means go for it.  If everyone does it, great, then the extractor
+  all means go for it.  If everyone does it according to the 5%/year
+  reduction schedule, great, then the extractor
   companies only need to follow the market development.
 
 * Q: But the fossile fuel companies just extract the stuff from the earth,
