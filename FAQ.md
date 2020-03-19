@@ -43,6 +43,10 @@ needs to be structured.  Help is very welcome.
 
 # Motivation
 
+* Q: Why are you doing this?
+* A: Because, unfortunately, politics and the fossile fuel industry
+     as of 2020 leaves us little choice.
+
 * Q: Aren't we all responsible?
 * A: Yes and no.  There are many people who have legitimate reasons to
   emit CO2 and have little choice.  Some people emit a lot, many
@@ -95,4 +99,4 @@ needs to be structured.  Help is very welcome.
 Water dissolves CO2, however this increases acidity. 
 Unfortunately, this creates a whole host of problems
 by itself known as 
-[Ocean acidification](https://en.wikipedia.org/wiki/Ocean_acidification)
+[Ocean acidification](https://en.wikipedia.org/wiki/Ocean_acidification).
