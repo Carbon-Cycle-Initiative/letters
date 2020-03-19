@@ -1,3 +1,5 @@
+DRAFT letter to directors/officers of fossile fuel extractor companies
+
 Dear DIRECTOR_OFFICER,
 
 as you are no doubt aware, the global carbon cycle is
