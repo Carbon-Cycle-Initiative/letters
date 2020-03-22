@@ -63,16 +63,31 @@ needs to be structured.  Help is very welcome.
   the geosphere (i.e., carbon bound in solid form) to the atmosphere.  
   Since almost all of extracted fuels are eventually burnt, the flux 
   into the atmosphere is the same as the sum of all fuels extracted by 
-  all extractor companies.
+  all extractor companies.  Therefore, if we reduce the flux into
+  the atmosphere, the extraction from the geosphere has to reduce
+  by the same amount.
+
+  Literally, we need to attack the problem at the roots, which are the
+  fossile sources.
   
-  The advantages of tackling the problem at the source level are:
+* Q: What are other advantages of tackling the problem at the source?
+* A:
   * It is vastly more practical and effective to deal with a few hundred
     extractor companies than with billions of companies and individuals
     burning off the fuels.
   * It is fairer because we implement a flat 5% reduction per
     year for all extractors equally.
-  * The extractors have by far more concentrated financial and
-    human resources to tackle the problem than the consumers.
+  * The extractors have immense financial and human resources to address 
+    the problem.
+  * Another way of looking at it is:
+
+     Imagine you have a city with a gas distribution network.  The 
+     city is hit by an earthquake; some pipes break and start
+     leaking.  Obviously, the first thing to is to close
+     the main valve(s) where the gas enters the network.
+     
+     The fossile fuel extractors are like the main valves.  We
+     have to close them, the faster the better.
 
 # Effects of elevated atmospheric CO2 levels besides global warming
 
