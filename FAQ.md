@@ -35,11 +35,42 @@ needs to be structured.  Help is very welcome.
 
 # Paradoxes
 
+This section points out some of the paradoxical advantages fossile 
+fuel extractors still have over other types of energy
+or the economy in general.  It is a key goal of this initiative
+to create fairness in the energy market.  In fact,
+fairness would make any fossile fuel extraction business 
+immediately economically unviable without compensation.
+
 * Q: Why do I need to go through all kinds of red tape and bureaucracy
   to get a permit to build a shack in my backyard while at
   the same time we allow big concerns to modify the planet's 
   atmosphere without an environmental impact assessment?
 * A: We don't know.  Perhaps ask your lawmakers.
+
+* Q: What kind of liability insurance is required to extract fossile
+     fuels?
+* A: There are no requirements for liability insurance that would cover
+     the full consequences detailed above, including global warming.  
+     Most other enterprises, in particular also renewable energy projects,
+     face strict requirements for liability insurance covering all
+     possible consequences.
+
+* Q: What kind of Environmental Impact Assessment is required for
+     raising the CO2 level of the planet?
+* A: None.  Likewise, for most other enterprises, EIAs are required
+     even for very small scale projects.
+
+
+# The reduction schedule
+
+* Q: Why 5%/year?
+* A: This is a preliminary number and may actually not be 
+     enough.  We ask fossile fuel extractors live up to their
+     responsibility and reduce faster if necessary
+     or face consequences.
+
+     TODO: Put numbers from IPCC/remaining CO2 budget etc.
 
 # Motivation
 

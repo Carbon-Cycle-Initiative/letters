@@ -13,7 +13,7 @@ Your company, COMPANY, engages in activities of extracting
 fossile fuels which contribute to said imbalance of the carbon cycle.
 
 This letter is to put you, COMPANY, your employees,
-and your shareholders on notice that you must now
+and your shareholders on formal notice that you must now
 start winding down said activities.
 
 Given the well-known urgency of the situation, said wind-down is 
@@ -82,10 +82,12 @@ of fiduciary duty.
 It's time for you and COMPANY to move to business areas which
 do not threaten the livelihood of the entire human race.  There
 are plenty of lucrative areas you can go into and you have
-enough time and financial resources to do so.
+enough time and financial resources to do so.  
 
-There is no excuse for any further procrastination
-we are now forced to crack down on it.
+Given the facts available to you and the urgency of the 
+situation, there is no excuse for any further procrastination.
+You must commence the reduction schedule for fossile fuel
+extraction NOW or else you and your company face dire consequences.
 
 Sincerely,  
 Citizens concerned about climate change
