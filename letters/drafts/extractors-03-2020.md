@@ -1,6 +1,6 @@
 DRAFT letter to directors/officers of fossile fuel extractor companies
 
-Dear DIRECTOR_OFFICER,
+Dear DIRECTOROFFICER,
 
 as you are no doubt aware, the global carbon cycle is
 out of balance causing several potentially catastrophic effects
