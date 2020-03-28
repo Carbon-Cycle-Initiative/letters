@@ -1,0 +1,21 @@
+#
+# List of companies that trade and transport in fossile fuels, and possibly
+# other goods.
+#
+# As far as fossiles are concerned, they'll have to follow the reduction
+# schedule and shift to other areas.
+#
+# Important:
+# * Only use public sources
+# * Cite sources
+#
+
+- Trafigura:
+  official_name: Trafigura Group Pte. Ltd.
+  ownership:
+  source: https://en.wikipedia.org/wiki/Trafigura
+  address: Singapore, Geneva
+  people:
+    - name: Jeremy Weir
+      role: CEO
+      email:
