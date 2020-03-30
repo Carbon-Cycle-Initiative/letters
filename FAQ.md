@@ -120,6 +120,31 @@ immediately economically unviable without compensation.
      The fossile fuel extractors are like the main valves.  We
      have to close them, the faster the better.
 
+# Legal
+
+* Q: Can we actually enforce the reduction schedule?
+* A: We have no other choice than to try.  We can obviously only do it with
+     the support of lots of people.  The percentage of people 'alarmed'
+     about climate change in recent polls (3/2020) should be largely
+     sufficient to have a significant impact.
+     
+* Q: Are existing laws sufficient to enforce the reduction schedule?
+* A: Yes, we do believe so, at least in a number of countries.  There
+     are laws against endangerment of life or environment which could
+     apply.  Generally, managers who knowingly put the success of their
+     company in jeopardy would be committing an offense.
+
+* Q: Aren't you trying to change laws retroactively?
+* A: It's sufficient to apply existing laws NOW and change them if
+     necessary to enforce the reduction schedule.  We do think that
+     a strong moral responsibility of companies in the fossile fuel
+     business exists, because the dangers of CO2 in the atmosphere
+     have been publicly known for at least 40 years now.  Managers of
+     big international companies should be held to very high moral
+     and legal standards.  For the same reason, we don't think that
+     any advance notice is necessary.
+
+
 # Effects of elevated atmospheric CO2 levels besides global warming
 
 * Q: Is CO2 toxic?
