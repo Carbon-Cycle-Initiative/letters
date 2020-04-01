@@ -58,7 +58,7 @@ It is important to emphasize, however, that despite a possible
 delay in lawmaking, you are required to act immediately.
 Surely you will understand that avoiding a global
 climate catastrophe is more important than your company's
-ability to continue your business "as usual".
+ability to continue its business "as usual".
 
 We are sending this
 letter to you and to other companies we have identified as
