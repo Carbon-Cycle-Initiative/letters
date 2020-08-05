@@ -43,9 +43,9 @@ fairness would make any fossile fuel extraction business
 immediately economically unviable without compensation.
 
 * Q: Why do I need to go through all kinds of red tape and bureaucracy
-  to get a permit to build a shack in my backyard while at
-  the same time we allow big concerns to modify the planet's 
-  atmosphere without an environmental impact assessment?
+     to get a permit to build a shack in my backyard while at
+     the same time we allow big concerns to modify the planet's 
+     atmosphere without an environmental impact assessment?
 * A: We don't know.  Perhaps ask your lawmakers.
 
 * Q: What kind of liability insurance is required to extract fossile
@@ -56,11 +56,55 @@ immediately economically unviable without compensation.
      face strict requirements for liability insurance covering all
      possible consequences.
 
-* Q: What kind of Environmental Impact Assessment is required for
+* Q: What kind of Environmental Impact Assessment (EIA) is required for
      raising the CO2 level of the planet?
 * A: None.  Likewise, for most other enterprises, EIAs are required
      even for very small scale projects.
 
+* Q: What is the burden of proof for EIAs for small scale projects?
+* A: The project proponent has to prove that his project doesn't 
+     negatively affect the environment.
+
+* Q: What is the burden of proof for EIAs for fossile fuel projects?
+* A: Fossile fuel extractors don't even need to conduct EIAs for
+     bringing additional carbon into circulation in the carbon cycle.
+     This is despite overwhelming evidence for all the negative consequences.
+
+# Burden of proof
+
+
+**We need to reverse the burden for the environmental impact of
+fossile fuel extraction.**  
+
+This is so obvious that maybe it is sometimes overlooked.
+
+For any other projects, even on very small scales, in modern 
+legislations the proponent is required to conduct an EIA
+to prove that there are no untenable negative consequences on the
+environment.  Given the massive scale and importance of potential negative 
+consequences, this should obviously be the same for fossile fuel
+extraction.  
+
+To be very clear:  Fossile fuel extractors should be required 
+to conduct an EIA to prove beyond reasonable doubt that 
+* their activities are:
+  * Safe for glaciers.
+  * Do not alter global weather patterns.
+  * Do not alter ocean currents.
+* Any disturbance of the global Carbon Cycle, including tipping to
+  new stability points, can be ruled out.
+* Impacts on oceanic acidity are negligible and safe for all marine life,
+  in particular calcifying organisms like corals.
+* There are no negative consequences for food chains, neither oceanic
+  nor land-based.
+* There are no direct negative consequences for the human body, neither
+  from higher temperatures nor elevated atmospheric CO2 levels.
+* There are no direct negative consequences for any other plant or 
+  animal species, neither from higher temperatures nor elevated 
+  atmospheric CO2 levels.
+* Etc. etc.
+Any such EIA must be conducted *prior* to proceeding to bring carbon
+into circulation.
 
 # The reduction schedule
 
