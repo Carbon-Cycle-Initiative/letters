@@ -208,6 +208,16 @@ into circulation.
      responsibility to asses the impact of CO2 concentration on
      the worldwide fauna *before* increasing it.
 
+# Corporate responsibility
+
+* Q: Did the oil companies know about the devastating effect of rising
+     CO2 levels?
+* A: Yes.  There is ample evidence, e.g. 
+     [this video](https://www.youtube.com/watch?v=FGVW9vJ773k) where
+     "Responding to the New York congresswoman Alexandria Ocasio-Cortez,
+     Hoffert [a consultant for ExxonMobil] testified that in 1982,
+     Exxon scientists predicted how carbon dioxide levels would rise 
+     and heat the planet as humans burned more fossil fuels". 
 
 # Effects of elevated CO2 levels in the ocean
 
