@@ -14,7 +14,8 @@ fossile fuels which contribute to said imbalance of the carbon cycle.
 
 This letter is to put you, COMPANY, your employees,
 and your shareholders on formal notice that you must now
-start winding down said activities.
+start winding down said activities or compensate their
+disastrous effects.
 
 Given the well-known urgency of the situation, said wind-down is 
 to commence with immediate effect and to be finished by the year 
@@ -34,11 +35,17 @@ at any time.__
 We understand that your company draws a substantial part
 of its profits from your activity of extracting fossile fuels.
 However, we consider a 20 year wind-down period more
-than enough to allow you to restructure your company to 
+than enough to allow you to transform your company to 
 draw profits from other business areas, e.g. from
-renewable energies.
+renewable energies.  Due to the need for a reduced supply, 
+we expect fossil fuel prices to increase, allowing similar
+or higher revenues even as your production needs to reduce.
+You can use part of these higher revenues to create a negative
+CO2 flux (i.e. out of the atmosphere).  This may allow you to
+maintain or even increase your fossil fuel production levels.
 
-We would also like to mention that as a director or officer
+
+It is important to mention that as a director or officer
 of a large international company, you have and always had
 a strong responsibility
 to be aware of the consequences of your business.  The 
@@ -64,7 +71,7 @@ We are sending this
 letter to you and to other companies we have identified as
 engaging in the same or similar activities.
 
-To be very clear: If you fail to act NOW, you expose 
+If you fail to act NOW, you expose 
 yourself, your company, shareholders and employees to 
 crushing and potentially fatal legal and economic sanctions
 including, but not limited to:
@@ -85,9 +92,12 @@ are plenty of lucrative areas you can go into and you have
 enough time and financial resources to do so.  
 
 Given the facts available to you and the urgency of the 
-situation, there is no excuse for any further procrastination.
-You must commence the reduction schedule for fossile fuel
-extraction NOW or else you and your company face dire consequences.
+situation, there cannot be any excuse for a further delay of
+starting the above described transformation of your company.
+
+To be very clear:  You must commence the reduction or
+compensation schedule for fossile fuel extraction NOW or else you and your 
+company face dire consequences.
 
 Sincerely,  
 Citizens concerned about climate change
