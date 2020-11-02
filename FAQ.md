@@ -164,6 +164,25 @@ into circulation.
      The fossile fuel extractors are like the main valves.  We
      have to close them, the faster the better.
 
+* Q: But why do you want to kill the oil companies?  This will wreak havoc
+     on the economy!
+* A: No.  We don't want to kill the oil companies, or fossil fuel extractors
+     in general.  We want to encourage and help them transform into sustainable
+     businesses.
+
+     We don't expect fossil fuels to go away in the very near future.  However,
+     we *need* the extractors to start compensating for those fuels that are 
+     still being extracted after the year 2020.  They can and will add the price
+     of compensation to their sales price, including a realistic profit
+     margin.  This has the following main advantages:
+     * It allows the fossil fuel extractors to remain profitable and hence
+       sustainable long-term businesses.
+     * It creates fair conditions for compensation in the market, because
+       every consumer will pay the same price.
+     * It eliminates the need for any carbon taxes.
+     * It also eliminates the need for complicated and fraud-prone
+       carbon-credit trading among consumers.
+
 # Legal
 
 * Q: Can we actually enforce the reduction schedule?
