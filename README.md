@@ -1,3 +1,48 @@
+# Emissions / extraction tracking
+
+The main point of this effort is that, in addition to tracking and
+accounting for carbon emissions, we also need to track, and,
+eventually account, for carbon *extraction* from the lithosphere.  The
+reason is that almost everything which is being extracted eventually
+ends up in the atmosphere or ocean.
+
+Accounting for extraction is, in principle, much easier, because there
+are only relatively few players, namely the big oil, gas and coal
+companies.  If we can force these companies to reduce fossil extraction,
+we also autoatically also reduce emissions.  If we cap emissions,
+we cap extraction because storage facilities are very limited compared
+to the total carbon flux.  So both are essentially equivalent.
+
+Thus, *now* is the time to warn the extractors that they really have
+to cap and reduce their extraction operations.  Note that this doesn't
+even necessarily mean less revenues or profits for them, because as 
+supply becomes more scarce, prices will obviously rise.
+
+We suggest to move from cap-and-trade of emissions to cap-and-trade for
+extraction rights.  This is much easier to implement, much fairer, and
+easier to monitor provided that all countries collaborate.
+
+
+## Fossil extractors with intentions to compensate
+
+Below is a list of fossil extraction companies who announced intentions
+to compensate for the fuels they extract.  Only companies 
+committing to 'scope 3' targets are listed.  Scope 3 means compensation
+of emissions from all fuels extracted, including those burnt by customers.
+Notes:
+* As of 2020, the fossil fuel extractors only made non-binding announcements
+  for the far future (typically, 2040 or 2050).  It is important to
+  clarify that additionally we need binding and sufficient reduction 
+  targets for next year and the entire ramp down to zero.
+* It is very likely that we'll also need 'scope 4' compensation, i.e. 
+  compensation of emissions the extractor plus customers already caused
+  in the past.
+
+## 2020
+
+* Royal Dutch Shell, UK/Netherlands, 4/2020, <https://www.reuters.com/article/us-shell-emissions-idUSKCN21Y0MW> 
+* Occidental Petroleum Corporation, US/California, 11/2020, <https://www.bnnbloomberg.ca/occidental-is-first-u-s-oil-major-to-target-net-zero-emissions-1.1520533>
+
 # Letters
 
 Letters to directors and officers of fossile energy 
