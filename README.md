@@ -38,10 +38,28 @@ Notes:
   compensation of emissions the extractor plus customers already caused
   in the past.
 
-## 2020
+### 2020
 
 * Royal Dutch Shell, UK/Netherlands, 4/2020, <https://www.reuters.com/article/us-shell-emissions-idUSKCN21Y0MW> 
 * Occidental Petroleum Corporation, US/California, 11/2020, <https://www.bnnbloomberg.ca/occidental-is-first-u-s-oil-major-to-target-net-zero-emissions-1.1520533>
+
+### Oil and Gas Climate Initiative (OGCI)
+
+From
+[Wikipedia](https://en.wikipedia.org/wiki/Oil_and_Gas_Climate_Initiative):
+"(OGCI) ... is an international industry-led organization which includes 
+12 member companies from the oil and gas industry: BP, Chevron, CNPC, Eni,
+Equinor, ExxonMobil, Occidental, Petrobras, Repsol, Saudi Aramco, Shell
+and Total represent over "30% of global operated oil and gas
+production." It was established in 2014 and has a mandate to work
+together to "accelerate the reduction of greenhouse gas emissions" in
+full support of the Paris Agreement and its aims."
+
+The above indicates at least a claim of intention to fix the problem 
+in Oil&Gas.
+
+We believe that the OGCI is a good start, but will have to be built
+out on a truly massive scale to be of any use.
 
 # Letters
 
