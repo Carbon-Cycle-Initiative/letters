@@ -43,3 +43,22 @@ Atmosphaere veraendert --- Temperatur erhoeht --- Kohlekonzern haftet
 
 * House with gas conduit
 * Close main valve before anything else
+
+
+## Vehicle trail
+
+* Visualize the amount of air becoming unusable trailing a vehicle
+  (car, plane, ...).  Or a passenger in a vehicle.  Since airliners
+  travel much faster than cars but have similar/smaller gas mileage
+  per person, they may end up with an advantage here.
+
+  Various CO2 thresholds can be used.  E.g. doubling concentration,
+  concentration that becomes a know health hazard, 100% concentration.
+
+
+## Sell a greenhouse effect demonstration kit
+
+!!!
+
+* Bottle, soda, vinegar, thermometers.
+* Ensure the experiment is well tested and yields reproducible results.
